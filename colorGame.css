@@ -11,6 +11,7 @@ h1 {
     background: steelblue;
     margin: 0;
     transition: background 0.4s;
+    font-weight: normal;
 }
 
 #color {
